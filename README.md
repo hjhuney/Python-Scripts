@@ -3,7 +3,7 @@ A repo for Python scripts and code snippets I frequently use.
 
 Pandas
 
-Suppress Scientific Notation
+* [Suppress Scientific Notation](https://github.com/hjhuney/Python-Scripts/blob/master/README.md#pandas-suppress-scientific-notation)
 
 ## Pandas: Suppress Scientific Notation
 
