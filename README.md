@@ -1,6 +1,10 @@
 # Python-Scripts
 A repo for Python scripts and code snippets I frequently use. 
 
+Pandas
+
+Suppress Scientific Notation
+
 ## Pandas: Suppress Scientific Notation
 
 ```
